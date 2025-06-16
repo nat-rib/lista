@@ -1,3 +1,1 @@
-# lista de alergias
 
-- Atazanamentos
