@@ -1,9 +1,9 @@
 
-Nome completo: Maria Carolina Neiva Mendonça  
+## Nome completo: Maria Carolina Neiva Mendonça  
 Data de nascimento: 31/10/1995  
 Tipo sanguíneo: A+  
 
-‼️ Alergias medicamentosas graves:  
+### ‼️ Alergias medicamentosas graves:  
 🚫 Dipirona  
 🚫 AAS (ácido acetilsalicílico)  
 🚫 Todos os AINEs (anti-inflamatórios não esteroidais)  
@@ -13,12 +13,12 @@ Tipo sanguíneo: A+
 
 ---
 
-Full name: Maria Carolina Neiva Mendonça  
+## Full name: Maria Carolina Neiva Mendonça  
 Date of birth: October 31, 1995  
 Blood type: A+  
 
 
-‼️ Severe drug allergies:  
+### ‼️ Severe drug allergies:  
 🚫 Metamizole (Dipyrone)  
 🚫 Aspirin (ASA, acetylsalicylic acid)  
 🚫 All NSAIDs (non-steroidal anti-inflammatory drugs)  
