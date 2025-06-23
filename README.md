@@ -24,4 +24,4 @@ Blood type: A+
 🚫 All NSAIDs (non-steroidal anti-inflammatory drugs)  
 🚫 Amoxicillin and all beta-lactam antibiotics (including penicillins and cephalosporins)  
 🚫 Precedex (Dexmedetomidine)  
-🚫 NeomycinNome completo: Maria Carolina Neiva Mendonça  
+🚫 Neomycin
